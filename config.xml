@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!---Create a twitter app and input authentication information---->
+<config>
+	<ConsumerKey>ConsumerKey</ConsumerKey>
+	<ConsumerSecret>ConsumerSecret</ConsumerSecret>
+	<AccessToken>AccessToken</AccessToken>
+	<AccessTokenSecret>AccessTokenSecret</AccessTokenSecret>
+</config>
